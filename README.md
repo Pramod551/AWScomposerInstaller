@@ -1,0 +1,2 @@
+# AWScomposerInstaller
+composerInstaller
